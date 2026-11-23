@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et résultats générés par les notebooks
+data/*.csv
+results/cache/
+*.npz
+
+# Système
+.DS_Store
+Thumbs.db
